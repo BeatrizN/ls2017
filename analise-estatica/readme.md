@@ -13,6 +13,6 @@
 
 ![img](https://github.com/BeatrizN/ls2017/blob/master/analise-estatica/json1.PNG)
 
-![img](https://github.com/BeatrizN/ls2017/blob/master/analise-estatica/json2.PNG)
+![img](https://github.com/BeatrizN/ls2017/blob/master/analise-estatica/Json2.PNG)
 
 ![img](https://github.com/BeatrizN/ls2017/blob/master/analise-estatica/json3.PNG)
