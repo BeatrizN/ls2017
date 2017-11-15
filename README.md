@@ -9,13 +9,13 @@ Aula | Nota | Link   | Comentario
 4    | 1    | https://github.com/BeatrizN/ls2017/wiki/environment |
 5    | 1    | https://github.com/BeatrizN/ls2017/wiki/landscape |
 6    | 1    | https://github.com/BeatrizN/ls2017/wiki/Zeroturnaround |
-7    | 1    | https://github.com/BeatrizN/ls2017/wiki/ThoughtWorks | x
+7    | 1    | https://github.com/BeatrizN/ls2017/wiki/ThoughtWorks | Atrasei a entrega desta atividade por estar resolvendo problemas pessoais.
 8    | 1    | https://github.com/BeatrizN/ls2017/wiki/tecnologiasThoughtworks | 
 9    | 1    | https://github.com/BeatrizN/ls2017/wiki/analise-estatica e https://github.com/BeatrizN/ls2017/tree/master/analise-estatica | O resultado da Análise Estática dos dois softwares estão no mesmo documento.
 10   | 1    | https://github.com/BeatrizN/ls2017/tree/master/javancss/target |
-11   | x    | https://github.com/BeatrizN/ls2017/wiki/arquitetura | x
+11   | 0    | https://github.com/BeatrizN/ls2017/wiki/arquitetura | Atrasada
 12   | 1    | https://github.com/BeatrizN/ls2017/wiki/visualvm | 
-13   | 1    | https://github.com/BeatrizN/ls2017/wiki/sonarcloud |
-14   | 1    | https://github.com/BeatrizN/ls2017/wiki/softvis3d | x
-15   | 1    | https://github.com/BeatrizN/ls2017/blob/master/README.md |
-16   | x    |  | 
+13   | 1    | https://github.com/BeatrizN/ls2017/wiki/sonarcloud | 
+14   | 1    | https://github.com/BeatrizN/ls2017/wiki/softvis3d | Atrasada
+15   | 0    | https://github.com/BeatrizN/ls2017/blob/master/README.md |
+16   |     |  | 
