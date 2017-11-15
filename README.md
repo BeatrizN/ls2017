@@ -16,6 +16,6 @@ Aula | Nota | Link   | Comentario
 11   | 0    | https://github.com/BeatrizN/ls2017/wiki/arquitetura | Atrasada
 12   | 1    | https://github.com/BeatrizN/ls2017/wiki/visualvm | 
 13   | 1    | https://github.com/BeatrizN/ls2017/wiki/sonarcloud | 
-14   | 1    | https://github.com/BeatrizN/ls2017/wiki/softvis3d | Atrasada
-15   | 0    | https://github.com/BeatrizN/ls2017/blob/master/README.md |
+14   | 0    | https://github.com/BeatrizN/ls2017/wiki/softvis3d | Atrasada
+15   | 1    | https://github.com/BeatrizN/ls2017/blob/master/README.md |
 16   |     |  | 
