@@ -122,7 +122,7 @@ git shortlog -sne?
 #### 33. Após alterar o conteúdo de um arquivo committed em passo anterior, qual o efeito do comando git checkout – a.txt?
 <pre>Ignora a alteração do arquivo a.txt</pre>
 
-####34. Qual a diferença entre os comandos git reset HEAD x.txt e git checkout -- a.txt?
+#### 34. Qual a diferença entre os comandos git reset HEAD x.txt e git checkout -- a.txt?
 <pre>O comando git reset HEAD x.txt ignora o arquivo x.txt, já o comando git checkout – a.txt 
 obtem a versão HEAD do arquivo no repositório em questão, esté é usado quando a alteração no 
 arquivo foi equivocada e se deseja ignorá-la.</pre>
